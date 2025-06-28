@@ -1,3 +1,1 @@
-我确定好开发工具和server就发操作给你们要怎样安装什么的，任何更新都可以直接push来这个repo，做了什么，记得commit啊
-okie老大
-okie
+
